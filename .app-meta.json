@@ -1,0 +1,7 @@
+{
+  "description": "Car dash camera remote: snapshot, trigger a recording, check on the car (TARGET Noga4G Two via the OnaGo cloud)",
+  "icon": "Camera",
+  "sharedLibs": [
+    "android-feedback-lib"
+  ]
+}
